@@ -14,7 +14,7 @@ class Doctor
     @@all
   end
 
-  def name(doctor)
+  def name
     @doctor
   end
 
