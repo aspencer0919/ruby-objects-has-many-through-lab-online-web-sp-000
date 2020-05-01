@@ -14,4 +14,8 @@ class Doctor
     @@all
   end
 
+  def name(doctor)
+    @doctor
+  end
+
 end
